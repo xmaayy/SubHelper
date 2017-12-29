@@ -1,0 +1,10 @@
+
+DATA/
+
+config\.file
+
+__pycache__/
+
+TestGetData\.py
+
+listCoins\.py
